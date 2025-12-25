@@ -1,0 +1,2 @@
+-- SQL script for creating the database structure.
+-- Add your SQL statements here.

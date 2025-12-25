@@ -1,0 +1,2 @@
+-- SQL script to populate the database with initial data.
+-- Add your SQL statements here.
